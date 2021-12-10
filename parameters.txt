@@ -1,0 +1,3 @@
+pass email: stagiaires2020
+email: gestionstagiaires2021@gmail.com 
+admin pass: alpha040mega
